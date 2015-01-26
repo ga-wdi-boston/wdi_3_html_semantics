@@ -1,5 +1,12 @@
 # HTML and CSS
 
+## Objectives
+
+* write basic HTML5 pages  
+* separate content from style  
+* use basic CSS styling  
+* debug with Chrome Inspector  
+
 ## HTML
 
 HTML is a markup language. It's rendered by the web browser so that the user can read the content.
