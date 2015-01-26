@@ -82,7 +82,7 @@ Again, follow your curiosity. Aim for greater understanding rather than voodoo a
 
 * when should you use a class vs. id?
 * what’s the difference between the selectors “div p” and “div > p”?
-* what’s the difference between the selectors “div.container” and “container.div”?
+* what’s the difference between the selectors “div.container” and “.container div”?
 * why are table layouts so 1995? what should we instead for layout?
 * what’s the difference between margin and padding?
 * what’s International Box-Sizing Awareness Day all about?
