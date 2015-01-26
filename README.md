@@ -101,5 +101,5 @@ Don't worry too much about forms and buttons for now.
 
 ## Further Resources
 
-(https://gist.github.com/tsyan/15a14a588f1dc65ee31d)[Gist of Useful Links]
+[Gist of Useful Links](https://gist.github.com/tsyan/15a14a588f1dc65ee31d)
 
