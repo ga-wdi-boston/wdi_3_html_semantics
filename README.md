@@ -30,9 +30,9 @@ Work with a partner of a different ability level than you. Research these questi
 Follow your curiosity.
 
 * which tags are new in HTML5? when might you use them?
-* what's the best way to insert an image: <img> element vs. <div> with css background-image?
-* what should the <h1> element (biggest text on the page) be: website name, article title, or something else?
-* where should you use <div> vs. <article> + <section>?
+* what's the best way to insert an image: img element vs. div with css background-image?
+* what should the h1 element (biggest text on the page) be: website name, article title, or something else?
+* where should you use div vs. article or section?
 * what is semantic HTML and why is it important?
 * what happens if you don’t have valid HTML? where can you validate your HTML?
 * your own questions, if you have time
@@ -51,7 +51,7 @@ The point of CSS is to style the content and make it visually appealing. HTML an
 
 **Selector:** A pattern used to select the elements you want to style
 
-This selector would select all <p> elements that are nested (at any level) inside a <div> element:
+This selector would select all p elements that are nested (at any level) inside a div element:
 
 `div p`
 
