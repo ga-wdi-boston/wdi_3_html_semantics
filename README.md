@@ -37,11 +37,13 @@ Follow your curiosity.
 * what happens if you don’t have valid HTML? where can you validate your HTML?
 * your own questions, if you have time
 
-### Lab: Fix this HTML!
+### Lab: Fix this HTML
 
 Look at the file music.html in this repo. It looks okay in a browser... but it's terrible, non-semantic, meaningless, invalid HTML!
 
 Work with a partner to make it semantic, meaningful, and valid.
+
+Submit a pull request when you're finished.
 
 ## CSS
 
@@ -85,7 +87,7 @@ Again, follow your curiosity. Aim for greater understanding rather than voodoo a
 * what’s a CSS reset?
 * your own questions, if you have time
 
-### Lab: Wireframe/HTML/CSS of Twitter/Instagram/Imgur
+### Lab: Wireframe and Clone Existing Site
 
 Choose one of Twitter/Instagram/Imgur and look at it in your browser.
 
@@ -96,4 +98,8 @@ Second, work alongside others who are also doing the same website to code a basi
 Start with the biggest elements first - divide up the page. It's useful to give a border and/or background color to your big divs. Then go progressively smaller and smaller.
 
 Don't worry too much about forms and buttons for now.
+
+## Further Resources
+
+[https://gist.github.com/tsyan/15a14a588f1dc65ee31d](Gist of Useful Links)
 
